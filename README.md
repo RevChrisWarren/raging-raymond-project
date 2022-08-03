@@ -11,4 +11,4 @@ Raging Raymond is a fundraiser to help raise funds for a medical condition calle
 
 ## Deployed Link
 
-https://raging-raymond.herokuapp.com/vampTopics
+https://raging-raymond.herokuapp.com
